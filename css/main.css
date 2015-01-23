@@ -1,0 +1,30 @@
+html {
+  background-color: #048C66;
+  }
+
+h1, h2 {
+  color: #D8D9D0;
+  font-family: 'Philosopher', sans-serif;
+  font-weight: normal;
+  font-size:5rem;
+  font-style: italic;
+  text-decoration: underline;
+  line-height:1.5;
+}
+
+ol {
+  list-style-type:none;
+  padding: 0;
+}
+
+.stego {
+  color: red;
+}
+
+a {
+  color: yellow;
+}
+
+a:hover {
+  color: blue;
+}
